@@ -1,0 +1,7 @@
+{
+  "name": "dsidm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
